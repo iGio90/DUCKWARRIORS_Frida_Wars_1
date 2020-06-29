@@ -1,6 +1,6 @@
 This is the first challenge we built for the first [frida-wars](https://sec-r.et/).
 
-Credits for the awesome work to @jeanbmar @bhargavhegde001 @veronicapablo @AkshayJainG and @iGio90
+Credits for the awesome work to [@jeanbmar](https://github.com/jeanbmar) [@bhargavhegde001](https://github.com/bhargavhegde001) [@veronicapablo](https://github.com/veronicapablo) [@AkshayJainG](https://github.com/AkshayJainG) and [@iGio90](https://github.com/iGio90)
 
 The goal is to read from memory a String with that format: 
 **{secRet-[xxxxxxxxxxxxxxxx]}**
