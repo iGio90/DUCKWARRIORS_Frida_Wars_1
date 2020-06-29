@@ -5,7 +5,7 @@ Credits for the awesome work to [@jeanbmar](https://github.com/jeanbmar) [@bharg
 The goal is to read from memory a String with that format: 
 **{secRet-[xxxxxxxxxxxxxxxx]}**. Our mission is to protect it and make the code use it as normal app do nowadays with tokens and stuff.
 
-We ensure, as per competition rule, that the flag is built in memory when an obvious action (like clicking a button) is perfomed by the user and no external tools are altering the execution.
+We ensure, as per competition rule, that the flag is built in memory when an obvious action (like clicking a button) is perfomed by the user and no external tools are altering the execution. Target is built for arm64 devices.
 
 
 #### Guidelines
