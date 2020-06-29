@@ -1,9 +1,9 @@
-This is the first challenge we built for the first [frida-wars](https://sec-r.et/).
+This is the challenge we built for the first [frida-wars](https://sec-r.et/).
 
 Credits for the awesome work to [@jeanbmar](https://github.com/jeanbmar) [@bhargavhegde001](https://github.com/bhargavhegde001) [@veronicapablo](https://github.com/veronicapablo) [@AkshayJainG](https://github.com/AkshayJainG) and [@iGio90](https://github.com/iGio90)
 
 The goal is to read from memory a String with that format: 
-**{secRet-[xxxxxxxxxxxxxxxx]}**. Our mission is to protect it and make the code use it as normal apps do nowadays with tokens and stuff.
+**{secRet-[xxxxxxxxxxxxxxxx]}**. Our mission is to protect it and make the code use it as normal app do nowadays with tokens and stuff.
 
 We ensure, as per competition rule, that the flag is built in memory when an action is perfomed by the user and no external tools is altering the execution.
 
