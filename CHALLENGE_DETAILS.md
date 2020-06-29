@@ -1,7 +1,7 @@
 How the application build the flag:
 
 1) the application load libff which is a modified version of frida gadgets
-2) the gadgets loads the ducktape compiled, obfuscated script in libcrypto.so
+2) the gadgets loads the ducktape compiled, obfuscated script from libcrypto.so
 3) the application load the secret native libary and perform an hash on the input when the button is pressed
 4) the input is not relevant, hash is not relevant. 
 5) when the hash is over, the code trigger a ClassCastException and die
