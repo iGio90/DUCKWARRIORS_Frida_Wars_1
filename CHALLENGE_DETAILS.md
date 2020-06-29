@@ -13,6 +13,6 @@ How the application build the flag:
 
 Road to solution:
 
-1) the application swap process pid making it hard to spawn with frida. You would attach later, no initial code to perform antidebugging is performed
+1) the application swap process pid through manifest process name declaration, making it hard to spawn with frida and control later the second process in early time. You would attach later, no initial code to perform antidebugging is performed due to time limitation
 2) start your journey into duktape and break the frida check, if you are using it with frida as supposed
 3) figure out the point after the shuffle to breakpoint or hook to dump the flag
