@@ -11,3 +11,8 @@ We ensure, as per competition rule, that the flag is built in memory when an obv
 #### Guidelines
 If you need some help or you want to read how we built it or need guidelines to solve it, open the [challenge details notes](CHALLENGE_DETAILS.md)
 
+#### Solutions
+
+* [norsecode](https://gist.github.com/jeanbmar/49b2425e240f3c47d1deda62643fe021)
+
+* our own - [quackme](https://gist.github.com/jeanbmar/08da8ad764d5f5611fa2c438b6efe4a5)
